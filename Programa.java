@@ -6,7 +6,7 @@ public class Programa {
 		
 		
 		public static void main(String [] arg) { 
-		System.out.println("adicionando um no curso Branch");
+		System.out.println("adicionando um novo curso Branch");
 		
 		}
 	}
