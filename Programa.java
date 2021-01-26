@@ -5,10 +5,6 @@ public class Programa {
 		System.out.println("Ola mundo");
 		
 		
-		public static void main(String [] arg) { 
-		System.out.println("adicionando um novo curso Branch");
-		
-		}
 	}
 }
 
