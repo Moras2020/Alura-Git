@@ -8,7 +8,6 @@ public class Programa {
 		System.out.println("adicionando curso Git");
 		System.out.println("Teste curso");
 		
-		
 	}
 }
 
