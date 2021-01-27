@@ -5,7 +5,7 @@ public class Programa {
 		System.out.println("exercitando o Git");
 		System.out.println("Ola todo mundo");
 		System.out.println("Ola mundo");
-		
+		System.out.println("Teste de reset");
 		
 		
 	}
