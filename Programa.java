@@ -6,6 +6,7 @@ public class Programa {
 		System.out.println("Ola todo mundo");
 		System.out.println("Ola mundo");
 		System.out.println("adicionando curso Git");
+		System.out.println("Teste curso");
 		
 		
 	}
